@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog Archive
+title: AI
 ---
 
 {% for tag in site.tags %}
