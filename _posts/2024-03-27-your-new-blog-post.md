@@ -1,22 +1,22 @@
 ## [AI] Constraint Satisfaction Problems - 1
 ---
 
-### What is Constraint Satisfaction Problems
+# What is Constraint Satisfaction Problems
 
 Set of objects whose state must satisfy a number of constraints or limitations  
 Offers a framework for solviong problems that involve finding configurations of variables that meet a specified set of conditions.
 
-#### Components
+## Components
 
-##### Variables
+### Variables
 
 A set of variables that need to be assigned values.
 
-##### Domains
+### Domains
 
 For each variable, there is a domain of possible values that the variable can take.
 
-##### Constraints
+### Constraints
 
 Rules that specify which combinations of values are valid
 
@@ -32,43 +32,42 @@ Relation (Rel)
 ![스크린샷 2024-03-25 233618](https://github.com/Picbridge/Picbridge.github.io/assets/34910988/a1f68e86-00e2-4c81-9d6a-cc4b0934a7c8)
 ![스크린샷 2024-03-26 000117](https://github.com/Picbridge/Picbridge.github.io/assets/34910988/46ac1251-ae9a-492a-84ba-2373f1efbab2)
 
-
 A typical CSP example is the coloring problem. It is a problem of assigning different values to two adjacent vertices in the graph.  
 Assigning value to each variables is a state in CSP.  
 e.g., {Xi = vi, Xj = vj, ...}
 
-#### Varieties of CSPs
+## Varieties of CSPs
 
-##### Discrete Variables
+### Discrete Variables
 
 Finite Domains e.g., Boolean CSPs  
 Infinite Domains e.g., Job scheduling, variables are start/end days for each job
 
-##### Continuous Variables
+### Continuous Variables
 
 e.g., start/end times for Hubble telescope observations
 
-#### Varieties of Constraints
+## Varieties of Constraints
 
-##### Unary constraints
+### Unary constraints
 
 involve a single variable,
 
 e.g., SA != green
 
-##### Binary constraints
+### Binary constraints
 
 involve pairs of variables
 
 e.g., SA != WA
 
-##### Higher-order constraints
+### Higher-order constraints
 
 involve 3 or more variables,
 
 e.g., cryptarithmatic column constraints
 
-##### Preferences (soft constraints),
+### Preferences (soft constraints),
 
 e.g., red is better than green  
 often representable by cost for each variable assignment -> constrained optimization problems
