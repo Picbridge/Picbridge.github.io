@@ -29,8 +29,13 @@ Relation (Rel)
 
 -   The relation of a constraint specifies the allowed combinations of values for the variables within the scope of the constraint. It defines the specific conditions that the variable assignments must meet to satisfy the constraint. Continuing with the previous example, where **X** < **Y**, the relation is that the value assigned to **X** must be less than the value assigned to **Y**. The relation is essentially the rule that determines whether a particular set of variable assignments is valid or not according to the constraint.
 
-![스크린샷 2024-03-25 233618](https://github.com/Picbridge/Picbridge.github.io/assets/34910988/a1f68e86-00e2-4c81-9d6a-cc4b0934a7c8)
-![스크린샷 2024-03-26 000117](https://github.com/Picbridge/Picbridge.github.io/assets/34910988/46ac1251-ae9a-492a-84ba-2373f1efbab2)
+<br></br>
+<div align="center">
+<img src="https://github.com/Picbridge/Picbridge.github.io/assets/34910988/a1f68e86-00e2-4c81-9d6a-cc4b0934a7c8" width="200" height="200">
+<img src="https://github.com/Picbridge/Picbridge.github.io/assets/34910988/46ac1251-ae9a-492a-84ba-2373f1efbab2" width="200" height="200">
+
+</div>
+<br></br>
 
 A typical CSP example is the coloring problem. It is a problem of assigning different values to two adjacent vertices in the graph.  
 Assigning value to each variables is a state in CSP.  
