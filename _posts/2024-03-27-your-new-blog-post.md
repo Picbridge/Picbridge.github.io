@@ -8,15 +8,15 @@ Offers a framework for solviong problems that involve finding configurations of 
 
 ### Components
 
-# Variables
+#### Variables
 
 A set of variables that need to be assigned values.
 
-# Domains
+#### Domains
 
 For each variable, there is a domain of possible values that the variable can take.
 
-# Constraints
+#### Constraints
 
 Rules that specify which combinations of values are valid
 
@@ -42,36 +42,36 @@ e.g., {Xi = vi, Xj = vj, ...}
 
 ### Varieties of CSPs
 
-# Discrete Variables
+#### Discrete Variables
 
 Finite Domains e.g., Boolean CSPs  
 Infinite Domains e.g., Job scheduling, variables are start/end days for each job
 
-# Continuous Variables
+#### Continuous Variables
 
 e.g., start/end times for Hubble telescope observations
 
 ### Varieties of Constraints
 
-# Unary constraints
+#### Unary constraints
 
 involve a single variable,
 
 e.g., SA != green
 
-# Binary constraints
+#### Binary constraints
 
 involve pairs of variables
 
 e.g., SA != WA
 
-# Higher-order constraints
+#### Higher-order constraints
 
 involve 3 or more variables,
 
 e.g., cryptarithmatic column constraints
 
-# Preferences (soft constraints),
+#### Preferences (soft constraints),
 
 e.g., red is better than green  
 often representable by cost for each variable assignment -> constrained optimization problems
