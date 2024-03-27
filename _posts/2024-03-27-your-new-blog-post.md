@@ -31,9 +31,8 @@ Relation (Rel)
 
 <br></br>
 <div align="center">
-<img src="https://github.com/Picbridge/Picbridge.github.io/assets/34910988/a1f68e86-00e2-4c81-9d6a-cc4b0934a7c8" width="200" height="200">
-<img src="https://github.com/Picbridge/Picbridge.github.io/assets/34910988/46ac1251-ae9a-492a-84ba-2373f1efbab2" width="200" height="200">
-
+<img src="https://github.com/Picbridge/Picbridge.github.io/assets/34910988/a1f68e86-00e2-4c81-9d6a-cc4b0934a7c8" width="500" height="400">
+<img src="https://github.com/Picbridge/Picbridge.github.io/assets/34910988/46ac1251-ae9a-492a-84ba-2373f1efbab2" width="500" height="400">
 </div>
 <br></br>
 
