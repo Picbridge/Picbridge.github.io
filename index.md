@@ -1,2 +1,6 @@
+---
+layout: default
+---
+
 Picbridge blog
 ---
