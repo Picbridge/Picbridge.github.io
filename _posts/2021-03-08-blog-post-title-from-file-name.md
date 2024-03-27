@@ -1,14 +1,11 @@
 ## [AI] Constraint Satisfaction Problems - 1
-
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
-
-If the file does not start with a header, then the post title will be derived from the filename.
-
-This is a sample blog post. You can talk about all sorts of fun things here.
-
 ---
 
-### This is a header
+### What is Constraint Satisfaction Problems
+
+Set of objects whose state must satisfy a number of constraints or limitations  
+Offers a framework for solviong problems that involve finding configurations of variables that meet a specified set of conditions.
+
 
 #### Some T-SQL Code
 
