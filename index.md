@@ -1,2 +1,1 @@
-Picbridge blog
 ---
