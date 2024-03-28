@@ -133,7 +133,7 @@ Result doesn't matter if the assumption is false.
 
 Models : 
 
-| **A** | **B** | **￢A∨B   ** | **A** | _KB_ | α = {**B**} |
+| **A** | **B** | ￢A∨B    | **A** | _KB_ | α = {**B**} |
 | --- | --- | --- | --- | --- | --- |
 | 0 | 0 | 1 | 0 | 0 | 0 |
 | 0 | 1 | 1 | 0 | 0 | 1 |
