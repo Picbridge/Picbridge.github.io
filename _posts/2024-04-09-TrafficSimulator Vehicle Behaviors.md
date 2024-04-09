@@ -3,6 +3,8 @@ layout: post
 tag: Project
 ---
 
+## [TrafficSimulator] Vehicle Behavior
+
 In order to simulate the intersection traffic, there are two big things to consider: Traffic lights, and vehicles.
 
 There are several ways to choose for vehicle movement.
