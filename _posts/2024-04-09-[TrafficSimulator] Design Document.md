@@ -1,4 +1,9 @@
-# Traffic Simulator
+---
+layout: post
+tag: Project
+---
+
+## Traffic Simulator
 
 ---
 
