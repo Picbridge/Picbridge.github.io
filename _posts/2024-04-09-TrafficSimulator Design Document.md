@@ -3,7 +3,7 @@ layout: post
 tag: Project
 ---
 
-## Traffic Simulator
+## Traffic Simulator Design Document
 
 ---
 
